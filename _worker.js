@@ -11,7 +11,7 @@ let addresses = [
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt' //可参考内容格式 自行搭建。
+	'https://hello-cud.pages.dev/ip.txt?token=123456' //可参考内容格式 自行搭建。
 ];
 
 let DLS = 4;//速度下限
